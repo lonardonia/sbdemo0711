@@ -1,0 +1,41 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Progetti\\GitHubActions\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A1C9777A-DCB3-4BA4-8594-A8B6F88C5009}|FunctionApp1\\FunctionApp1.csproj|c:\\progetti\\githubactions\\functionapp1\\function1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A1C9777A-DCB3-4BA4-8594-A8B6F88C5009}|FunctionApp1\\FunctionApp1.csproj|solutionrelative:functionapp1\\function1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Function1.cs",
+              "DocumentMoniker": "C:\\Progetti\\GitHubActions\\FunctionApp1\\Function1.cs",
+              "RelativeDocumentMoniker": "FunctionApp1\\Function1.cs",
+              "ToolTip": "C:\\Progetti\\GitHubActions\\FunctionApp1\\Function1.cs",
+              "RelativeToolTip": "FunctionApp1\\Function1.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-02T15:12:21.388Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
